@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: EclipsePluginDependencyAnalysis
+Bundle-SymbolicName: EclipsePluginDependencyAnalysis
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: EclipsePluginDependencyAnalysis
+Bundle-RequiredExecutionEnvironment: JavaSE-13
